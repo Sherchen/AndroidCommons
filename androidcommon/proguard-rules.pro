@@ -19,3 +19,6 @@
 -keep class com.sherchen.utilcode.** { *; }
 -keepclassmembers class com.sherchen.utilcode.** { *; }
 -dontwarn com.sherchen.utilcode.**
+-keep class com.chad.library.adapter.** {
+   *;
+}
