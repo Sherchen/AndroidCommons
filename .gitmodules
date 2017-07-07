@@ -1,3 +1,6 @@
 [submodule "BaseRecyclerViewAdapterHelper"]
 	path = BaseRecyclerViewAdapterHelper
 	url = https://github.com/CymChad/BaseRecyclerViewAdapterHelper.git
+[submodule "KLog"]
+	path = KLog
+	url = https://github.com/Sherchen/KLog.git
